@@ -17,7 +17,6 @@
 	<properties>
 		<java.version>17</java.version>
 		<sonar.coverage.jacoco.xmlReportPaths>${project.basedir}/target/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
-		<sonar.token>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</sonar.token>
 	</properties>
 	<dependencies>
 		<dependency>
